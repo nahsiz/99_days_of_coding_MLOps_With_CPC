@@ -42,6 +42,4 @@
 - NumPy
 - Matplotlib
 - Seaborn
-- NumPy
-- Matplotlib
-- Seaborn
+
